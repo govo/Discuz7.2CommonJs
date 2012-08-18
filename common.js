@@ -3,6 +3,9 @@
 	This is NOT a freeware, use is subject to license terms
 
 	$Id: common.js 20980 2009-11-05 02:06:19Z monkey $
+
+    Modified common.js 2012-07-25 15:30:34  by govo
+    BrowserDetect: http://www.quirksmode.org/js/detect.html
 */
 var BrowserDetect = {
 	init: function () {
